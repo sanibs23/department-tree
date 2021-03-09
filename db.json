@@ -1,0 +1,73 @@
+{"department":[
+  {
+    "id":"vestlandet",
+    "label":"Vestlandet",
+    "children":[
+      {
+        "id":"flsland",
+        "label":"Flesland",
+        "children":[
+          {
+            "id":"flesland_g1",
+            "label":"Flesland Garasje"
+          }
+        ]
+      },
+      {
+        "id":"bs",
+        "label":"Bergen Sentrum",
+        "children":[
+          {
+            "id":"bs_g1",
+            "label":"Bergen Sentrum Garasje 1"
+          },
+          {
+            "id":"bs_g2",
+            "label":"Bergen Sentrum Garasje 2"
+          }
+        ]
+      },
+      {
+        "id":"asane",
+        "label":"Asane",
+        "children":[
+          {
+            "id":"aas_g1",
+            "label":"Asane Garasje 1"
+          },
+          {
+            "id":"aas_g2",
+            "label":"Asane Garasje 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id":"mn",
+    "label":"Midt-Norge",
+    "children":[
+      {
+        "id":"trhm",
+        "label":"Trondheim",
+        "children":[
+          {
+            "id":"trhm-g1",
+            "label":"ronheim Super Garasje"
+          }
+        ]
+      },
+      {
+        "id":"vaernes",
+        "label":"Vaernes",
+        "children":[
+          {
+            "id":"vs_g1",
+            "label":"Vaernes Garasje"
+          }
+        ]
+      }
+    ]
+  }
+]
+}
